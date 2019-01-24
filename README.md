@@ -6,4 +6,5 @@
 ## Section 2: some tools 
 - Weka 
 - rapidminer 
-## Section 3 
+## Section 3 Use cases
+- customer churn 
