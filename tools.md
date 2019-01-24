@@ -1,5 +1,11 @@
-List of lots of tools 
+# List of lots of tools 
 IBM SPSS modeler 
-IBM
+IBM SSSS modifier 
+Orange 
+KNIIME
+Rapidminer 
 # New tools 
 - Wamgler 
+- Weka
+- Yet another tool!
+
