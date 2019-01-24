@@ -7,5 +7,4 @@
 - Weka 
 - rapidminer 
 ## Section 3 Use cases
-- customer churn 
 - customer segmentation 
